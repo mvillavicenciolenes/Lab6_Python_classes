@@ -145,7 +145,7 @@ class BankAccount:
 
 # Testing the BankAccount class
 
-useraccount = BankAccount("123456789", "Student's name")
+useraccount = BankAccount("123456789", "Michael Villavicencio")
 
 print(f"\nAccount Holder: {useraccount.account_holder}")
 print(f"Account Number: {useraccount.account_number}\n")
